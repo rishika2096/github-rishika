@@ -10,3 +10,6 @@ nothing imp
 
 ##Conclusion
 End end end
+
+
+##Copyright
